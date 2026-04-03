@@ -6,7 +6,7 @@ export default function Hero() {
         style={{
           backgroundImage:
             "url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1800&q=80')",
-        }}
+        }} 
       />
       <div className="absolute inset-0 bg-black/55" />
       <div className="absolute inset-0 bg-gradient-to-r from-black via-black/60 to-transparent" />
